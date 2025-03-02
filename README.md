@@ -1,5 +1,6 @@
 # [Horse Health Outcome Prediction](https://www.kaggle.com/code/hassaneskikri/horse-health-prediction)
 
+![](https://feedsnneeds.ca/wp/wp-content/uploads/2020/12/Maintaining-your-horses-health.png)
 ## Project Overview
 This project focuses on predicting health outcomes in horses using various machine learning models. The challenge is based on the Kaggle competition "Playground Series S3E22", which aims to develop accurate predictive models for horse health conditions.
 
